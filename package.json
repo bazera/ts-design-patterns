@@ -1,0 +1,11 @@
+{
+  "name": "ts-design-patterns",
+  "version": "1.0.0",
+  "description": "Implementations of Design Patterns using TypeScript",
+  "scripts": {},
+  "author": "bazera",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
