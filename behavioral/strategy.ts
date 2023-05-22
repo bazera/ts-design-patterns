@@ -1,7 +1,3 @@
-interface FlyBehavior {
-  fly: () => void;
-}
-
 // Strategy Pattern (Behavioral)
 
 /*
@@ -10,6 +6,9 @@ Defines a family of algorithms, encapsulates each one, and makes them intercahng
 
 */
 
+interface FlyBehavior {
+  fly: () => void;
+}
 interface QuackBehavior {
   quack: () => void;
 }
